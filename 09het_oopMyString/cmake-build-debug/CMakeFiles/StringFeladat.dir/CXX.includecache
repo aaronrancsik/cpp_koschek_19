@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/Documents/ProjektMunka/StringFeladat/main.cpp
+iostream
+-
+mystring.h
+/home/aaron/Documents/ProjektMunka/StringFeladat/mystring.h
+
+/home/aaron/Documents/ProjektMunka/StringFeladat/mystring.h
+iostream
+-
+

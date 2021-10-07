@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/VizsgaSzeru.dir/main.cpp.o CMakeFiles/VizsgaSzeru.dir/CBaseDolgozo.cpp.o CMakeFiles/VizsgaSzeru.dir/CDolgozo.cpp.o CMakeFiles/VizsgaSzeru.dir/CUgynok.cpp.o CMakeFiles/VizsgaSzeru.dir/CVezeto.cpp.o  -o VizsgaSzeru 

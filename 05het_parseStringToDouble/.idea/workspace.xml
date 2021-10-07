@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="05het_parseStringToDouble" targetName="05het_parseStringToDouble" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ad16d5f-f327-4e03-a6fc-fa170384391e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RvmcAKWWW1eh7s0Omcfhoz29jA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="05het_parseStringToDouble" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="05het_parseStringToDouble" TARGET_NAME="05het_parseStringToDouble" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="05het_parseStringToDouble" RUN_TARGET_NAME="05het_parseStringToDouble">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad16d5f-f327-4e03-a6fc-fa170384391e" name="Default Changelist" comment="" />
+      <created>1570556020362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570556020362</updated>
+      <workItem from="1570556021555" duration="5132000" />
+      <workItem from="1570561593490" duration="567000" />
+      <workItem from="1570562523449" duration="862000" />
+      <workItem from="1570563823241" duration="417000" />
+      <workItem from="1570606775074" duration="15000" />
+      <workItem from="1571162178790" duration="630000" />
+      <workItem from="1571168003543" duration="11000" />
+      <workItem from="1571203747281" duration="899000" />
+      <workItem from="1571227762032" duration="10000" />
+      <workItem from="1575992289917" duration="7000" />
+      <workItem from="1579173201895" duration="618000" />
+      <workItem from="1579174130602" duration="613000" />
+      <workItem from="1579294513555" duration="569000" />
+      <workItem from="1579470989790" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2140" y="146" width="1656" height="1000" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579173844160">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2140" y="146" width="1656" height="1000" key="com.intellij.history.integration.ui.views.FileHistoryDialog/64.0.1856.1080/1920.0.1920.1200@1920.0.1920.1200" timestamp="1579173844160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

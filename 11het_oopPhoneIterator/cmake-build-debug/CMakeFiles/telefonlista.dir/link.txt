@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/telefonlista.dir/main.cpp.o CMakeFiles/telefonlista.dir/CPhoneList.cpp.o CMakeFiles/telefonlista.dir/CPhoneIter.cpp.o  -o telefonlista 

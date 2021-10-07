@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NevMemoriaKezelo.dir/main.cpp.o CMakeFiles/NevMemoriaKezelo.dir/CName.cpp.o  -o NevMemoriaKezelo 

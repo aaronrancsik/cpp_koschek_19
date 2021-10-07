@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CBaseDolgozo.h
+
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CDolgozo.h
+CBaseDolgozo.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CBaseDolgozo.h
+
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CUgynok.h
+CDolgozo.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CDolgozo.h
+
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CVezeto.h
+CBaseDolgozo.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CBaseDolgozo.h
+
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/main.cpp
+iostream
+-
+cstring
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/cstring
+CBaseDolgozo.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CBaseDolgozo.h
+CDolgozo.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CDolgozo.h
+CUgynok.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CUgynok.h
+CVezeto.h
+/home/aaron/Documents/ProjektMunka/VizsgaSzeru/CVezeto.h
+

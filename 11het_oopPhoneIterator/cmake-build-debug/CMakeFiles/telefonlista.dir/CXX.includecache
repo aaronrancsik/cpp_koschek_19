@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/Documents/ProjektMunka/telefonlista/CPhoneIter.cpp
+CPhoneIter.h
+/home/aaron/Documents/ProjektMunka/telefonlista/CPhoneIter.h
+
+/home/aaron/Documents/ProjektMunka/telefonlista/CPhoneIter.h
+CPhoneList.h
+/home/aaron/Documents/ProjektMunka/telefonlista/CPhoneList.h
+
+/home/aaron/Documents/ProjektMunka/telefonlista/CPhoneList.h
+

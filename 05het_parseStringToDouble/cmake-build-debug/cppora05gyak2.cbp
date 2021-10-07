@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cppora05gyak2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppora05gyak2">
+				<Option output="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/cppora05gyak2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppora05gyak2"/>
+					<CompileFile command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppora05gyak2/fast">
+				<Option output="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/cppora05gyak2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/../../../../include/c++/9.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppora05gyak2/fast"/>
+					<CompileFile command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/sbin/make -j8 -f &quot;/home/aaron/Documents/ProjektMunka/cppora05gyak2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aaron/Documents/ProjektMunka/cppora05gyak2/main.cpp">
+			<Option target="cppora05gyak2"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/ProjektMunka/cppora05gyak2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

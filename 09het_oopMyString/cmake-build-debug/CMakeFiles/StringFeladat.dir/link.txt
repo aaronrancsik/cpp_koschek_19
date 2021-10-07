@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StringFeladat.dir/main.cpp.o CMakeFiles/StringFeladat.dir/mystring.cpp.o  -o StringFeladat 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/oopgyak.dir/main.cpp.o CMakeFiles/oopgyak.dir/CDatum.cpp.o  -o oopgyak 

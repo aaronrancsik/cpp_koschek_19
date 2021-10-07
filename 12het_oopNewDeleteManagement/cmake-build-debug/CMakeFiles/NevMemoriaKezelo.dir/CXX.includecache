@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/Documents/ProjektMunka/NevMemoriaKezelo/CName.cpp
+CName.h
+/home/aaron/Documents/ProjektMunka/NevMemoriaKezelo/CName.h
+
+/home/aaron/Documents/ProjektMunka/NevMemoriaKezelo/CName.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+
+/home/aaron/Documents/ProjektMunka/NevMemoriaKezelo/main.cpp
+iostream
+-
+CName.h
+/home/aaron/Documents/ProjektMunka/NevMemoriaKezelo/CName.h
+

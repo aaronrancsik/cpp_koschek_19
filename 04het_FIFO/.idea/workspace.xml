@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="04het_FIFO" targetName="04het_FIFO" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a6024ba-2db5-4c40-9993-e409b9cba3c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RbpIZY2FEvswaBLVyU0l27zzNR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08het_oopCDatum" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="04het_FIFO" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="04het_FIFO" TARGET_NAME="04het_FIFO" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="04het_FIFO" RUN_TARGET_NAME="04het_FIFO">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a6024ba-2db5-4c40-9993-e409b9cba3c2" name="Default Changelist" comment="" />
+      <created>1569945570318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569945570318</updated>
+      <workItem from="1569945571453" duration="8887000" />
+      <workItem from="1570050589095" duration="120000" />
+      <workItem from="1570606796429" duration="7000" />
+      <workItem from="1570606828003" duration="8000" />
+      <workItem from="1571204047565" duration="653000" />
+      <workItem from="1575992102940" duration="150000" />
+      <workItem from="1575993962886" duration="634000" />
+      <workItem from="1575997071450" duration="5000" />
+      <workItem from="1579059767454" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2695" y="358" width="573" height="484" key="FileChooserDialogImpl" timestamp="1579059912278">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2695" y="358" width="573" height="484" key="FileChooserDialogImpl/1920.0.1920.1200/0.120.1920.1080@1920.0.1920.1200" timestamp="1579059912278" />
+    <state x="2181" y="112" width="1656" height="1000" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579059779705">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2181" y="112" width="1656" height="1000" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.0.1920.1200/0.120.1920.1080@1920.0.1920.1200" timestamp="1579059779705" />
+    <state x="2046" y="95" width="1656" height="1000" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579059878630">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2046" y="95" width="1656" height="1000" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1200/0.120.1920.1080@1920.0.1920.1200" timestamp="1579059878630" />
+  </component>
+</project>

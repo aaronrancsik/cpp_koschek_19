@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/elovizsga.dir/main.cpp.o CMakeFiles/elovizsga.dir/Allat.cpp.o CMakeFiles/elovizsga.dir/Lo.cpp.o CMakeFiles/elovizsga.dir/Zebra.cpp.o CMakeFiles/elovizsga.dir/Elefant.cpp.o CMakeFiles/elovizsga.dir/Vereb.cpp.o CMakeFiles/elovizsga.dir/Sas.cpp.o  -o elovizsga 

@@ -1,0 +1,3 @@
+/home/aaron/Documents/OE/Cpp/kodok/elovizsga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aaron/Documents/OE/Cpp/kodok/elovizsga/cmake-build-debug/CMakeFiles/elovizsga.dir
+/home/aaron/Documents/OE/Cpp/kodok/elovizsga/cmake-build-debug/CMakeFiles/edit_cache.dir

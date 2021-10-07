@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/Documents/ProjektMunka/untitled1/Fifo.cpp
+Fifo.h
+/home/aaron/Documents/ProjektMunka/untitled1/Fifo.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/aaron/Documents/ProjektMunka/untitled1/Fifo.h
+
